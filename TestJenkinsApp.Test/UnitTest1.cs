@@ -8,7 +8,7 @@ namespace TestJenkinsApp.Test
         [Fact]
         public void Test1()
         {
-            Assert.Equal("Hello World!1", Program.GetText());
+            Assert.Equal("Hello World!", Program.GetText());
         }
     }
 }
