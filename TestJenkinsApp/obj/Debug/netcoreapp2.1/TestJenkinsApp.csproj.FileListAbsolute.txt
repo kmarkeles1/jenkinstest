@@ -1,0 +1,11 @@
+C:\jenkins2\dotnet\TestJenkinsApp\bin\Debug\netcoreapp2.1\TestJenkinsApp.deps.json
+C:\jenkins2\dotnet\TestJenkinsApp\bin\Debug\netcoreapp2.1\TestJenkinsApp.runtimeconfig.json
+C:\jenkins2\dotnet\TestJenkinsApp\bin\Debug\netcoreapp2.1\TestJenkinsApp.runtimeconfig.dev.json
+C:\jenkins2\dotnet\TestJenkinsApp\bin\Debug\netcoreapp2.1\TestJenkinsApp.dll
+C:\jenkins2\dotnet\TestJenkinsApp\bin\Debug\netcoreapp2.1\TestJenkinsApp.pdb
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.csprojAssemblyReference.cache
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.csproj.CoreCompileInputs.cache
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.AssemblyInfoInputs.cache
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.AssemblyInfo.cs
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.dll
+C:\jenkins2\dotnet\TestJenkinsApp\obj\Debug\netcoreapp2.1\TestJenkinsApp.pdb
